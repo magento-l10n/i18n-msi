@@ -1,4 +1,4 @@
-"Source with code ""%value"" does not exist.","Source with code ""%value"" does not exist."
+"Source with code ""%value"" does not exist.","Джерело з кодом ""%value"" не існує."
 "Could not load Sources for Stock","Could not load Sources for Stock"
 "Validation Failed","Validation Failed"
 "Could not save Source","Could not save Source"
@@ -16,4 +16,4 @@
 "Could not delete StockSourceLinks","Could not delete StockSourceLinks"
 "Could not save StockSourceLinks","Could not save StockSourceLinks"
 """%field"" should be greater then 0.","""%field"" should be greater then 0."
-"Some error","Some error"
+"Some error","Якась помилка"
