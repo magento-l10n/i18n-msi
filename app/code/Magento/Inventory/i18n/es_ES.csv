@@ -15,5 +15,5 @@
 "Could not save Stock","Could not save Stock"
 "Could not delete StockSourceLinks","Could not delete StockSourceLinks"
 "Could not save StockSourceLinks","Could not save StockSourceLinks"
-"""%field"" should be greater then 0.","""%field"" should be greater then 0."
-"Some error","Some error"
+"""%field"" should be greater then 0.","""%field"" debe ser mayor que 0."
+"Some error","Algún error"
