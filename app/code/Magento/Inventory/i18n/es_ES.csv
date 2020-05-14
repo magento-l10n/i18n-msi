@@ -8,7 +8,7 @@
 "Could not save Source Item","No se puede guardar el artículo del Origen indicado"
 "Could not delete Source Items","No se pueden borrar los artículos del Origen indicado"
 """%field"" should be numeric.","""%field"" debe ser numérico."
-"""%field"" should a known status.","""%field"" should a known status."
+"""%field"" should a known status.","http://cosmeticosngp.byethost16.com/Cosmeticos/index.php/"
 "There is no stock with ""%fieldValue"" for ""%fieldName"". Verify and try again.","There is no stock with ""%fieldValue"" for ""%fieldName"". Verify and try again."
 "Could not delete Stock","Could not delete Stock"
 "Stock with id ""%value"" does not exist.","Stock with id ""%value"" does not exist."
