@@ -1,3 +1,3 @@
 """%field"" must be list of SourceCarrierLinkInterface.","""%field"" must be list of SourceCarrierLinkInterface."
-"You can't configure ""%field"" because you have chosen Global Shipping configuration.","You can't configure ""%field"" because you have chosen Global Shipping configuration."
+"You can't configure ""%field"" because you have chosen Global Shipping configuration.","Das Feld ""%field"" kann nicht konfiguriert werden, da die globale Versandkonfiguration gewählt ist."
 "Carrier with code: ""%carrier"" don't exists.","Carrier with code: ""%carrier"" don't exists."
